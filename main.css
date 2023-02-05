@@ -47,3 +47,6 @@ p {
  ol li{
   font-size: 20px;
  } 
+ h2 {
+  text-decoration: underline; 
+ }
